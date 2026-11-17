@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
-src/reports/
+src/reports/*.sqlite
+src/reports/*.log
 src/traces/
 *.sqlite
